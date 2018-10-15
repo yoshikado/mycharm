@@ -1,0 +1,13 @@
+options:
+  mycharm-ip:
+    type: string
+    default:
+    description: "IP of mycharm controller"
+  mycharm-username:
+    type: string
+    default: admin
+    description: "Username for mycharm controller"
+  mycharm-password:
+    type: string
+    default:
+    description: "Password for mycharm controller"

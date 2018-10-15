@@ -1,0 +1,12 @@
+name: mycharm
+summary: my sample charm
+maintainer: Yoshi Kadokawa <yoshi.kadokawa@canonical.com>
+description: my sample charm
+tags:
+  - misc
+series:
+  - xenial
+  - bionic
+  - cosmic
+subordinate: false
+
